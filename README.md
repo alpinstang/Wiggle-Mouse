@@ -4,5 +4,4 @@ I found a need to keep the computer from going to sleep/lock and security permis
 
 You can get the JAR file or download and build from the source.
 
-Screenshot:
-![Screenshot](./Capture.PNG)
+![Screenshot of wiggle mouse app](./Capture.PNG)
